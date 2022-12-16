@@ -2,6 +2,8 @@
 use std::io;
 use rand::Rng;
 
+///this program will allow to send and receive bitcoin
+
 fn send_bitcoin() {
     println!("\nWe're going to send some Bitcoin!\n");
 
